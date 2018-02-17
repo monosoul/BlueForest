@@ -1,9 +1,12 @@
 <scheme name="BlueForest" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="8080" />
     <option name="ANNOTATIONS_COLOR" value="8080ff" />
@@ -975,12 +978,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="HOCON_SUBSTITUTION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="b8bb" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="f7ff66" />
@@ -1920,7 +1917,6 @@
         <option name="FOREGROUND" value="a0ffa0" />
       </value>
     </option>
-    <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="83a6c1" />
@@ -1958,6 +1954,31 @@
       <value>
         <option name="FOREGROUND" value="50f050" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="9b0000" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="7750" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="1cb1bc" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="920088" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="cecf28" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
