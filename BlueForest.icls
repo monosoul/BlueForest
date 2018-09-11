@@ -1958,27 +1958,27 @@
     </option>
     <option name="RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="9b0000" />
+        <option name="FOREGROUND" value="7bff02" />
       </value>
     </option>
     <option name="RAINBOW_COLOR1">
       <value>
-        <option name="FOREGROUND" value="7750" />
+        <option name="FOREGROUND" value="ff2de8" />
       </value>
     </option>
     <option name="RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="1cb1bc" />
+        <option name="FOREGROUND" value="ffff" />
       </value>
     </option>
     <option name="RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="920088" />
+        <option name="FOREGROUND" value="ff0c03" />
       </value>
     </option>
     <option name="RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="cecf28" />
+        <option name="FOREGROUND" value="fdfffd" />
       </value>
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
